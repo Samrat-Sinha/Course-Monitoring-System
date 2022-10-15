@@ -14,13 +14,13 @@ So the Automated Course Monitoring System will keep the records of all the cours
 ### Role of Administrator:
 
     •	Login to his account
-    •	 Create, Update, View Course.
+    •	Create, Update, View Course.
     •	Create, Update, View Batch. A batch is related to a course. 
     •	Create, Update, View Faculty.
     •	Allocate faculty to a batch.
     •	Create, Update, View Course plan.
     •	View the Day wise update of every batch.
-    •	 Generate Report for every batch.
+    •	Generate Report for every batch.
 
 ### Role of Faculty:
 
